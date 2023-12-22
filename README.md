@@ -1,5 +1,3 @@
-# akademi-odev-2
-hesap makinası 
 <html>
 <head>
 <style>
